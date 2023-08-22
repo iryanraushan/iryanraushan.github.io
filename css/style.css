@@ -474,7 +474,7 @@ p {
 @media screen and (min-width: 0px) and (max-width: 850) {
   .contact .row {
     justify-content: center;
-    padding:1rem;
+    padding-left:1rem;
   }
 }
 
