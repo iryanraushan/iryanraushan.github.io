@@ -471,11 +471,11 @@ p {
   padding-left: 8rem;
 }
 
-@media screen and (min-width: 0px) and (max-width: 850) {
+/* @media screen and (min-width: 0px) and (max-width: 850) {
   .contact .row {
     padding-left:1rem;
   }
-}
+} */
 
 .contact .row .content {
   flex: 1 1 30rem;
