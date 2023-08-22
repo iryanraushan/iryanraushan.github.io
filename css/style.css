@@ -435,7 +435,7 @@ p {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  padding: 10rem;
+  padding: 3rem;
 }
 
 @media screen and (min-width: 0px) and (max-width: 1050px) {
@@ -474,6 +474,7 @@ p {
 @media screen and (min-width: 0px) and (max-width: 850) {
   .contact .row {
     justify-content: center;
+    padding:1rem;
   }
 }
 
