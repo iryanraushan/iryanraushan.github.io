@@ -435,7 +435,7 @@ p {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  padding: 10rem;
+  padding: 3rem;
 }
 
 @media screen and (min-width: 0px) and (max-width: 1050px) {
@@ -471,11 +471,18 @@ p {
   padding-left: 8rem;
 }
 
-@media screen and (min-width: 0px) and (max-width: 850) {
+@media screen (max-width: 600) {
   .contact .row {
-    justify-content: center;
+    padding-left:0rem;
   }
 }
+@media only screen and (max-width: 600) and (min-width: 800) {
+  .contact .row {
+    padding-left:3rem;
+  }
+}
+
+
 
 .contact .row .content {
   flex: 1 1 30rem;
