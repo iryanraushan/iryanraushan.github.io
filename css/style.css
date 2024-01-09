@@ -243,7 +243,7 @@ p {
 }
 
 .skills-icons {
-  width: 50px;
+  width: 65px;
   z-index: 2;
 }
 
@@ -471,18 +471,16 @@ p {
   padding-left: 8rem;
 }
 
-@media screen (max-width: 600) {
+/* @media screen (max-width: 600) {
   .contact .row {
-    padding-left:0rem;
+    padding-left: 0rem;
   }
-}
+} */
 @media only screen and (max-width: 600) and (min-width: 800) {
   .contact .row {
-    padding-left:3rem;
+    padding-left: 3rem;
   }
 }
-
-
 
 .contact .row .content {
   flex: 1 1 30rem;
