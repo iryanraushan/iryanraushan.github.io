@@ -374,7 +374,7 @@ p {
 .education .box-container {
   /* display: flex; */
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   font-size: 4rem;
   flex-wrap: wrap;
   padding: 1rem 0;
